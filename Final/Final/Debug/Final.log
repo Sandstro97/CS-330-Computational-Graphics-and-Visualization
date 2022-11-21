@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\shader.h(56,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(149,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(402,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(403,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(412,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(413,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(414,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Final\main.cpp(415,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Final.vcxproj -> C:\Users\Sarah\OneDrive\Desktop\OpenGL_projects\Final\Debug\Final.exe
